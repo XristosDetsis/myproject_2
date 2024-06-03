@@ -1,17 +1,17 @@
-##Overview
+## Overview
 This project uses a linear regression model to predict diabetes progression based on the scikit-learn Diabetes dataset.
 
-##Requirements
+## Requirements
 scikit-learn
 seaborn
 matplotlib
 
-##Output
+## Output
 Prints the model's coefficients, intercept, Mean Squared Error (MSE), and R² score.
 Displays a scatter plot of predicted vs actual values.
 
 
-##Code
+## Code
 The script performs the following steps:
 1.Loads the Diabetes dataset.
 2.Splits the data into training and test sets.
